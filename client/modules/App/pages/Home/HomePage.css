@@ -1,0 +1,19 @@
+.button-container a {
+  display: inline-block;
+  color: #FFF;
+  background: #03A9F4;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 1000px;
+}
+.active {
+  background: #1175be !important;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.container {
+  min-height: 385px;
+}
